@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-merged_res-70:\\drawable_tile_preview.png.flat",
+        "source": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-main-72:\\drawable\\tile_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-merged_res-70:\\font_pacificoregular.ttf.flat",
+        "source": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-main-72:\\font\\pacificoregular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-merged_res-70:\\drawable_image2.jpg.flat",
+        "source": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-main-72:\\drawable\\image2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-merged_res-70:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-main-72:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-merged_res-70:\\font_styles_font.xml.flat",
+        "source": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-main-72:\\font\\styles_font.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-merged_res-70:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-main-72:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-merged_res-70:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-main-72:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-merged_res-70:\\drawable-round_tile_preview.png.flat",
+        "source": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-main-72:\\drawable-round\\tile_preview.png"
+    },
+    {
+        "merged": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-merged_res-70:\\drawable_relsb.jpg.flat",
+        "source": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-main-72:\\drawable\\relsb.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-merged_res-70:\\font_font2.ttf.flat",
+        "source": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-main-72:\\font\\font2.ttf"
+    },
+    {
+        "merged": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-merged_res-70:\\font_pangolinregular.ttf.flat",
+        "source": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-main-72:\\font\\pangolinregular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-merged_res-70:\\drawable_pay.jpg.flat",
+        "source": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-main-72:\\drawable\\pay.jpg"
+    },
+    {
+        "merged": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-merged_res-70:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-main-72:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-merged_res-70:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-main-72:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-merged_res-70:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\PC-03\\.gradle\\daemon\\8.0\\mx.edu.utxj.ti.ddi.tarea3_200561.app-main-72:\\mipmap-mdpi\\ic_launcher.webp"
+    }
+]
