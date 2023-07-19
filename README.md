@@ -19,6 +19,6 @@
 &nbsp;
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre  |   |
-| Descripción  |   |
-|  Fecha de Carga |   |
+| Nombre  |  Tarea 3 Fuente, Animacion, Imagen |
+| Descripción  | Creación de una aplicación para un dispositivo wearable que muestra una imagen y un texto con animación, para un dispositivo WearOs.  |
+|  Fecha de Carga |  24/05/23 |
